@@ -1,5 +1,3 @@
-### Nurkholis
-
 ### <code>fun main() { println("Hello 👋") }</code>
 
 - 🌱 I’m currently learning Kotlin.
