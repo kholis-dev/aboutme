@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Kotlin.
 - 🤔 I’m looking for full time Android development job.
 - 💬 Ask me about Android Development or any tech related stuff.
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: He/His
 - ⚡ Fun fact: I love listening music.
 
 
