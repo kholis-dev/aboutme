@@ -1,7 +1,8 @@
 ### <code>fun main() { println("Hello 👋") }</code>
 
 - 🌱 I’m currently learning Kotlin.
-- 🤔 I’m looking for full time Android development job.
+- 😊 I’m a Headmaster in SMK Tarbiyatul Muhibbin.
+- 😊 I’m a Teacher in SMK PGRI Banyuputih.
 - 💬 Ask me about Android Development or any tech related stuff.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love listening music.
